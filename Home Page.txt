@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="website.css">
+  </head>
+  <body>
+    <script src="website.js"></script>
+   <header>
+   <h1 class="page-id">Home</h1>
+    <div class="nav">
+      <a class="current" href="home.html">Home</a>
+      <a href="one-piece.html">One Piece</a>
+      <a href="fmab.html">Fullmetal Alchemist Brotherhood</a>
+      <a href="hunter.html">Hunter x Hunter</a>
+      <a href="death.html">Death Note</a>
+      <a href="naruto.html">Naruto</a>
+      <a href="naruto.html">Dragon Ball Z</a>
+      <a href="naruto.html">More Info</a>
+    </div>
+    </header>
+  <div class="banner">
+    <h1>Anime, More than just fighting</h1>
+    <img src="https://lh3.googleusercontent.com/d4NfFIbZgROesrNncBKe1fZ_IK6LVTfDTDkkU9dQP-9SazeaPdGH8h73NSen0pDQ_qz_6sl6pdB7JGkUZKOSHXCmJdVA188L6nXuOj3v7ESTQw0adRILW5HnsMssVFtoS_coEYUr-Ttmo5jM_JhpDcRkPGqSoNgDsj91fnk2g98KJe9YacKvNwTBLQnsXGRlAhu-lYtBEZ0wv11XzPRQtKmkMK7z8SYcXXbYYueBHBabQ54r6cLFnEyWQtTyZJ6cicFzY5up2nbB8CFAr6Sb4cKeXsnDV9Tcy3Z7XAzAJg90TCXWwTsioy0TSfGDLPGtC8NXsZ2TdOwBPF3aoRaqOt_4iYxWDqkJKrkE-5Pam4eE-iMSBRCIslfo-5hoBuCNXGn4fWD4ooAA9miwNldS04qRvfaLEuD0JED2EOJyOU03F03380SQStcuuD2YAY9qmtKrUf3baKdXIn4HU95cFEW9avTNd_cmG8uccRlAmNEQBOISmI5MFJVAl1Y9voyuKzITgbmPcYHNIdmSh-ZDpfwwfKC2IX-Zj2P61jqoYn2ZheEz2SPconBWcEBFzV50rh2e3DJinneOuXt_xGIZkGyit7G34GURPX8owRKOysA8URCbuoioYX0YT6SvR0g4XmASmwg1OF4MGSmLwAYMRmuuHd69NA=w976-h387-no" alt="Six Favorite Anime"></img>
+    </div>
+    <div style="float:left; width:30%">
+      <h2>Why I Enjoy Anime So Much</h2>
+      <p>hfasjkhdrjfhkjhfkjdhskjahfjkhsdajhfdjshafjkhjhasfhkjasdhfkjhsdakjhfkjhaskjdhfskjhafhaskjhdfklhas</p>
+  </div>
+      <div style="float:right; width:40%; margin-left:30px" class="list">
+      <h2>List of Anime I have Seen, Watching, and Plan on Watching</h2>
+         <ul>
+         <li>One Piece <span class="xfin">(currently watching)</span></li>
+        <li>Fullmetal Alchemist Brotherhood <span class="fin">(completed)</span></li>
+         <li>Naruto <span class="fin">(completed)</span></li>
+           <li>Fate/Zero <span class="plan-s">(plan on starting)</span></li>
+           <li>Naruto Shippuden <span class="fin">(completed)</span></li>
+           <li>Boruto <span class="c-up">(up to date)</span></li>
+         <li>Death Note <span class="fin">(completed)</span></li>
+         <li>Hunter x Hunter <span class="fin">(completed)</span></li>
+           <li>Jojo's Bizarre Adventure <span class="plan-s">(plan on starting)</span></li>
+           <li>Dragon Ball Super <span class="fin">(completed)</span></li>
+           <li>Black Clover <span class="c-up">(up to date)</span></li>
+           <li>Kill la Kill <span class="plan-s">(plan on starting)</span></li>
+           <li>Assasination Classroom <span class="fin">(completed)</span></li>
+           <li>Overlord <span class="plan-s">(plan on starting)</span></li>
+           <li>The Seven Deadly Sins <span class="xfin">(currently watching)</span></li>
+           <li>Akame Ga Kill <span class="fin">(completed)</span></li>
+           <li>My Hero Academia <span class="c-up">(up to date)</span></li>
+           <li>Mob Psycho 100 <span class="xfin">(currently watching)</span></li>
+           <li>World Trigger <span class="xfin">(currently watching)</span></li>
+           <li>Erased <span class="fin">(completed)</span></li>
+           <li>Gintama <span class="plan-s">(plan on starting)</span></li>
+           <li>Megalo Box <span class="fin">(completed)</span></li>
+           <li>Sword Art Online <span class="xfin">(incomplete)</span></li>
+           <li>Haikyu <span class="xfin">(currently watching)</span></li>
+           <li>Berserk <span class="plan-s">(plan on starting)</span></li>
+           <li>Dragon Ball Z <span class="fin">(completed)</span></li>
+           <li>Bleach <span class="xfin">(currently watching)</span></li>
+           <li>Attack on Titan <span class="c-up">(up to date)</span></li>
+           <li>Code Geass <span class="xfin">(currently watching)</span></li>
+           <li>Parasyte <span class="fin">(completed)</span></li>
+           <li>Yu Yu Hakusho <span class="plan-s">(plan on starting)</span></li>
+        </ul>
+    </div>
+
+ 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <footer>
+    gdftg
+    </footer>
+  
+  </body>
+</html>

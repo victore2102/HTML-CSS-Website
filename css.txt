@@ -1,0 +1,86 @@
+body {
+  background-color: #05287E;
+}
+header {
+ 
+}
+
+.nav{
+  background-color: #070840;
+  overflow: hidden;
+  text-align: center;
+  border: 2px solid #DEDEEC;
+  max-width:100%;
+  margin: auto;
+  text-align: center;
+  
+ 
+  
+  
+}
+.nav a {
+ float: left;
+ padding: 1.4em 1.6em;
+ color: #DEDEEC;
+ font-size: 18px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.nav a:hover {
+  color: #CEEA70;
+}
+
+
+.page-id {
+  font-size: 4em;
+  color: white;
+}
+
+.banner {
+  text-align: center;
+  
+}
+
+.banner h1 {
+  text-align: center;
+  color: white;
+}
+
+#logo {
+  overflow: auto;
+}
+
+.anime-logo {
+  width: 175px;
+}
+
+.list {
+  color: white;
+}
+
+.list li {
+  font-weight: 5px;
+}
+
+.list .xfin {
+  color: red;
+}
+
+.list .fin {
+  color: green;
+}
+
+.list .c-up {
+  color: yellow;
+}
+
+.list .plan-s {
+  color: magenta;
+}
+
+
+
+
+
+

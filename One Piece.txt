@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="website.css">
+  </head>
+  <body>
+   <header>
+  <div id="logo">
+    <h1 class="page-id">One Piece <img class="anime-logo" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/intermediary/f/669dbabb-d4c5-4170-bbe6-1fffd7b4bb09/d1dghop-0187fed5-591f-43a8-afae-dfaa510f12b2.png/v1/fill/w_1528,h_523,strp/one_piece_logo_by_zerocustom1989_d1dghop-pre.png" alt="One Piece Logo"></img></h1>
+    </div>
+    <div class="nav">
+      <a href="home.html">Home</a>
+      <a class="current" href="one-piece.html">One Piece</a>
+      <a href="fmab.html">Fullmetal Alchemist Brotherhood</a>
+      <a href="hunter.html">Hunter x Hunter</a>
+      <a href="death.html">Death Note</a>
+      <a href="naruto.html">Naruto</a>
+    </div>
+    </header>
+  
